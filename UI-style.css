@@ -2,3 +2,8 @@
 .custom-navbar{
    background-color: #e0e0e0;   
 }
+
+.nav-link.active {
+   font-weight: bold;
+   text-decoration: underline;
+}
